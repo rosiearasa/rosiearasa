@@ -12,7 +12,7 @@
 - 👯 I’m looking to collaborate on ...ML, Brain Computer Interfaces, Neurotech
 - 🤔 I’m looking for help with ...*
 - 💬 Ask me about ...anything
-- 📫 Blog:...coming soon
+- 📫 Site:...coming soon
 - 😄 Pronouns: ...she/her
 - ⚡ Fun fact: ...Currently reading M. Mitchell Waldrop books
 -->
