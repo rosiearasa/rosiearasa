@@ -9,4 +9,5 @@
    
     
     
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=rosiearasa&count_private=true&show_icons=true&theme=radical)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=rosiearasa&count_private=true&show_icons=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rosiearasa)](https://github.com/rosiearasa/github-readme-stats)
