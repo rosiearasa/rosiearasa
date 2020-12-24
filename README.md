@@ -9,4 +9,4 @@
    
     
     
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=rosiearasa)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=rosiearasa&count_private=true)
