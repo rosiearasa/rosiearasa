@@ -5,7 +5,7 @@
 
 
 - 🔭 I’m currently working on ...
-    - junior year cs at BMC
+    - summer internship, projects and centuryblooms.com
    
     
     
